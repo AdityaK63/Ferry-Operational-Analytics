@@ -1,0 +1,11 @@
+_id,Timestamp,Redemption Count,Sales Count,Total Activity,Hour,Day,Month,Month Name,Year,Weekend,Activity Level
+61625,2023-08-15 20:15:00,7216,7229,14445,20,Tuesday,8,August,2023,False,High
+57274,2023-10-10 14:00:00,5535,5518,11053,14,Tuesday,10,October,2023,False,High
+40148,2024-06-19 19:00:00,5341,5342,10683,19,Wednesday,6,June,2024,False,High
+7769,2025-09-01 17:30:00,5256,5218,10474,17,Monday,9,September,2025,False,High
+36212,2024-08-05 22:00:00,4973,4995,9968,22,Monday,8,August,2024,False,High
+33541,2024-09-07 17:00:00,4966,4974,9940,17,Saturday,9,September,2024,True,High
+5966,2025-09-24 22:30:00,4020,4015,8035,22,Wednesday,9,September,2025,False,High
+11652,2025-07-17 23:15:00,3692,3701,7393,23,Thursday,7,July,2025,False,High
+65041,2023-07-05 21:15:00,3602,3634,7236,21,Wednesday,7,July,2023,False,High
+87889,2022-08-15 10:30:00,3520,3408,6928,10,Monday,8,August,2022,False,High
